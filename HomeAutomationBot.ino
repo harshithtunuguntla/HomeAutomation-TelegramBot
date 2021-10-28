@@ -221,7 +221,7 @@ void handleNewMessages(int numNewMessages) {
     
     else if(text == "/AboutMe" || text=="/aboutme")
     {
-      String AboutMeJson = "[[{ \"text\" : \"Open URL\", \"url\" : \"https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot\" }]]";
+      String AboutMeJson = "[[{ \"text\" : \"Open URL\", \"url\" : \"https://github.com/harshithtunuguntla/HomeAutomation-TelegramBot\" }]]";
       bot.sendMessageWithInlineKeyboard(chat_id, "Please follow the link to know more about me 😁", "", AboutMeJson);
     }
 
