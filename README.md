@@ -18,24 +18,42 @@ Now you are set to start the bot and experience it.  Start off by entering the c
 ## Commands
 
 "/LED1ON " : to switch on LED-1
+
 "/LED1OFF" : to switch off LED-1
+
 "/LED2ON " : to switch on LED-2
+
 "/LED2OFF" : to switch off LED-2
 
+
+
+
 "/AnalogSensorValue" : Returns reading of Analog input pin
+
 /DigitalSensorValue" : Returns reading of Digital input pin
 
+
+
 "/ActivateTrigger  " : Activates Digital Sensor Trigger
+
 "/DeactivateTrigger" : Deactivates Digital Sensor Trigger
+
+
 
 "/Reset" : To reset all components
 
+
 "/Commands" : Returns all the commands available
+
 "/Controls" : Returns control panel for LEDS
+
+
 
 "/Status" : Returns the status of the Components
 
+
 "/AboutMe" : To know more about this project (which will land you in this repository)
+
 
 
 
